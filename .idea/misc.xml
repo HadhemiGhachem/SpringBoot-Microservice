@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/coachService" />
+    <file type="web" url="file://$PROJECT_DIR$/configServer" />
+    <file type="web" url="file://$PROJECT_DIR$/demo" />
+    <file type="web" url="file://$PROJECT_DIR$/eurekaServer" />
+    <file type="web" url="file://$PROJECT_DIR$/gatewayServer" />
+    <file type="web" url="file://$PROJECT_DIR$/memberService" />
+    <file type="web" url="file://$PROJECT_DIR$/seanceService" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/seanceServer/pom.xml" />
+        <option value="$PROJECT_DIR$/gatewayServer/pom.xml" />
+        <option value="$PROJECT_DIR$/coachServer/pom.xml" />
+        <option value="$PROJECT_DIR$/memberServer/pom.xml" />
+        <option value="$PROJECT_DIR$/configServer/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/userServer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="ms-17 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
